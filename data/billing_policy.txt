@@ -1,0 +1,5 @@
+Refund requests require verification.
+
+Duplicate billing issues are escalated to billing specialists.
+
+Customers should provide transaction ID.
